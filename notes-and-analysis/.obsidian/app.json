@@ -1,4 +1,7 @@
 {
   "legacyEditor": false,
-  "livePreview": true
+  "livePreview": true,
+  "spellcheck": true,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true
 }
