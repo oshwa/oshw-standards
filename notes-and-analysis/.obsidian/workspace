@@ -48,8 +48,17 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "2d934bd7247187c5",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",

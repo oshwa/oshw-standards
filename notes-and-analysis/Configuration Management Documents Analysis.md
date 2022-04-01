@@ -1,3 +1,5 @@
+#analysis #configuration_management
+
 ## Reviewed Documents
 1. [[MIL-HDBK-61B]]
 2. [[MIL-STD-3046]]
@@ -10,4 +12,3 @@
 ![[Referenced Standards in CM Documents]]
 ![[Configuration Management Documents Observations and Recommendations]]
 
-#analysis
