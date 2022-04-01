@@ -4,10 +4,10 @@
 3. [[MSFC MGM 8040.1]]
 
 ## Analysis
-1. [[The Five CM Functions]]
-2. [[CM Functions as Captured in CM Documents]]
-3. [[Other Material Captured in CM Documents]]
-4. [[Referenced Standards in CM Documents]]
-5. [[Configuration Management Documents Observations and Recommendations]]
+![[The Five CM Functions]]
+![[CM Functions as Captured in CM Documents]]
+![[Other Material Captured in CM Documents]]
+![[Referenced Standards in CM Documents]]
+![[Configuration Management Documents Observations and Recommendations]]
 
 #analysis
