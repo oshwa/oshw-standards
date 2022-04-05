@@ -1,0 +1,1 @@
+This file is here to preserve the .trash/ folder in git.
