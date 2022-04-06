@@ -1,9 +1,9 @@
 #analysis #configuration_management
 
 ## Reviewed Documents
-1. [[MIL-HDBK-61B]]
-2. [[MIL-STD-3046]]
-3. [[MSFC MGM 8040.1]]
+1. [[@MIL-HDBK-61B]]
+2. [[@MIL-STD-3046]]
+3. [[@MSFC-MGM-8040.1]]
 
 ## Analysis
 ![[The Five CM Functions]]
